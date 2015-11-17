@@ -1,0 +1,3 @@
+# stringcalculator
+
+TDD Kata
